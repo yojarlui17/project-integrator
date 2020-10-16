@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "project-integrator"
+    }
+  },
+  "defaultProject": "project-integrator",
+  "cli": {
+    "analytics": "fc08530b-eda4-4f18-9c36-5d8b33604213"
+  }
 }
